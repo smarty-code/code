@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Expo NativeWind Hello World",
+    "slug": "expo-nativewind-hello-world",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
